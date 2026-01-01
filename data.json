@@ -1,3 +1,19 @@
 {
-  "apps": []
+  "apps": [
+ {
+      "id": "TimeManager",
+      "name": "TimeManager",
+      "type": "apk",
+      "version": "1.0.0",
+      "short_desc": "sdfsf",
+      "full_desc": "sdfsdf",
+      "whats_new": "sdfsdfs",
+      "icon_url": "https://raw.githubusercontent.com/Saqib791/apk_data/main/images/TimeManager/icon.png",
+      "download_url": "https://raw.githubusercontent.com/Saqib791/apk_data/main/apks/TimeManager/TimeManager.apk",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Saqib791/apk_data/main/images/TimeManager/screen1.png"
+      ]
+    }
+
+  ]
 }
