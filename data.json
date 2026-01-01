@@ -3,6 +3,7 @@
     {
       "id": "TimeManager",
       "name": "TimeManager",
+	  "package_name": "com.saqib.timemanager",
       "type": "apk",
       "version": "1.0.0",
       "short_desc": "Time management app",
