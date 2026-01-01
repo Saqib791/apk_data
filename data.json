@@ -1,19 +1,33 @@
 {
   "apps": [
- {
+    {
       "id": "TimeManager",
       "name": "TimeManager",
       "type": "apk",
       "version": "1.0.0",
-      "short_desc": "sdfsf",
-      "full_desc": "sdfsdf",
-      "whats_new": "sdfsdfs",
+      "short_desc": "Time management app",
+      "full_desc": "This is a time management application.",
+      "whats_new": "Initial Release",
       "icon_url": "https://raw.githubusercontent.com/Saqib791/apk_data/main/images/TimeManager/icon.png",
       "download_url": "https://raw.githubusercontent.com/Saqib791/apk_data/main/apks/TimeManager/TimeManager.apk",
       "screenshots": [
         "https://raw.githubusercontent.com/Saqib791/apk_data/main/images/TimeManager/screen1.png"
       ]
+    },
+    {
+      "id": "pdftool",
+      "name": "PDF Tool",
+      "type": "html",
+      "version": "1.0.0",
+      "short_desc": "Edit PDFs easily",
+      "full_desc": "A lightweight HTML tool to edit PDF files offline.",
+      "whats_new": "New UI",
+      "icon_url": "https://raw.githubusercontent.com/Saqib791/apk_data/main/images/pdftool/icon.png",
+      "download_url": "https://raw.githubusercontent.com/Saqib791/apk_data/main/html_tools/pdftool/pdftool.zip",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Saqib791/apk_data/main/images/pdftool/12.png",
+        "https://raw.githubusercontent.com/Saqib791/apk_data/main/images/pdftool/13.png"
+      ]
     }
-
   ]
 }
