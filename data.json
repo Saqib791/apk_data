@@ -13,10 +13,11 @@
 	  "app_info": "• Storage: Saves files in /Downloads/SaqibStore\n• Permissions: Requires Storage Access\n• Internet: Needed for updates",
       
       "developer": {
-        "name": "Saqib Developer",
-        "bio": "Flutter Enthusiast & Tool Maker",
+        "name": "Saqib",
+        "bio": "Flutter Developer & Content Creator.",
+        "profile_url": "https://raw.githubusercontent.com/Saqib791/apk_data/main/images/TimeManager/profile.png", 
         "github": "https://github.com/Saqib791",
-        "instagram": "https://www.instagram.com/mohdsaqibqamar/"
+        "instagram": "https://instagram.com/saqib"
       },
       "icon_url": "https://raw.githubusercontent.com/Saqib791/apk_data/main/images/TimeManager/icon.png",
       "download_url": "https://raw.githubusercontent.com/Saqib791/apk_data/main/apks/TimeManager/TimeManager.apk",
