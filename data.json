@@ -3,22 +3,21 @@
     {
       "id": "TimeManager",
       "name": "TimeManager",
-	  "package_name": "com.saqib.timemanager",
+      "package_name": "com.saqib.timemanager",
       "type": "apk",
       "version": "1.0.0",
-	  "size": "60 MB",
+      "size": "60 MB",
       "short_desc": "Time management app",
       "full_desc": "This is a time management application.",
       "whats_new": "Initial Release",
-	  "app_info": "• Storage: Saves files in /Downloads/SaqibStore\n• Permissions: Requires Storage Access\n• Internet: Needed for updates",
-      
+      "app_info": "• Storage: Saves files in /Downloads/SaqibStore\n• Permissions: Requires Storage Access\n• Internet: Needed for updates",
       "developer": {
         "name": "Saqib",
         "bio": "Flutter Developer & Content Creator.",
-        "profile_url": "https://raw.githubusercontent.com/Saqib791/apk_data/main/images/TimeManager/profile.png", 
+        "profile_url": "https://raw.githubusercontent.com/Saqib791/apk_data/main/images/TimeManager/profile.png",
         "github": "https://github.com/Saqib791",
-        "instagram": "https://instagram.com/mohdsaqibqamar"
-		"buymeacoffee": "https://buymeacoffee.com/saqib791"
+        "instagram": "https://instagram.com/mohdsaqibqamar",
+        "buymeacoffee": "https://buymeacoffee.com/saqib791"
       },
       "icon_url": "https://raw.githubusercontent.com/Saqib791/apk_data/main/images/TimeManager/icon.png",
       "download_url": "https://raw.githubusercontent.com/Saqib791/apk_data/main/apks/TimeManager/TimeManager.apk",
@@ -31,7 +30,7 @@
       "name": "PDF Tool",
       "type": "html",
       "version": "1.0.0",
-	  "size": "1020 KB",
+      "size": "1020 KB",
       "short_desc": "Edit PDFs easily",
       "full_desc": "A lightweight HTML tool to edit PDF files offline.",
       "whats_new": "New UI",
