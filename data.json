@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "size": "60 MB",
       "short_desc": "Time management app",
-      "full_desc": "This is a time management application.",
+      "full_desc": "This is a time management application designed to help you organize your tasks efficiently.",
       "whats_new": "Initial Release",
       "app_info": "• Storage: Saves files in /Downloads/SaqibStore\n• Permissions: Requires Storage Access\n• Internet: Needed for updates",
       "developer": {
@@ -32,8 +32,17 @@
       "version": "1.0.0",
       "size": "1020 KB",
       "short_desc": "Edit PDFs easily",
-      "full_desc": "A lightweight HTML tool to edit PDF files offline.",
-      "whats_new": "New UI",
+      "full_desc": "A lightweight HTML tool to edit PDF files offline directly in the app.",
+      "whats_new": "New UI & Faster Processing",
+      "app_info": "• Offline: Runs completely on your device\n• Privacy: No data leaves your phone\n• Storage: Saves edited PDFs locally",
+      "developer": {
+        "name": "Saqib",
+        "bio": "Flutter Developer & Content Creator.",
+        "profile_url": "https://raw.githubusercontent.com/Saqib791/apk_data/main/images/TimeManager/profile.png",
+        "github": "https://github.com/Saqib791",
+        "instagram": "https://instagram.com/mohdsaqibqamar",
+        "buymeacoffee": "https://buymeacoffee.com/saqib791"
+      },
       "icon_url": "https://raw.githubusercontent.com/Saqib791/apk_data/main/images/pdftool/icon.png",
       "download_url": "https://raw.githubusercontent.com/Saqib791/apk_data/main/html_tools/pdftool/pdftool.zip",
       "screenshots": [
