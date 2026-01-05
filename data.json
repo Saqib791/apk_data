@@ -29,7 +29,7 @@
       "id": "pdftool",
       "name": "PDF Tool",
       "type": "html",
-      "version": "1.0.1",
+      "version": "1.1.1",
       "size": "1020 KB",
       "short_desc": "Edit PDFs easily",
       "full_desc": "A lightweight HTML tool to edit PDF files offline directly in the app.",
